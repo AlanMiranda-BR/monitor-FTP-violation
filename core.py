@@ -1,4 +1,5 @@
 print("ok")
 print("No")
-print("cafééééé")
 print("noWay")
+if(coffee is up):
+  make code
